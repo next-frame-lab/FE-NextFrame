@@ -1,3 +1,11 @@
+---
+name: 사용자 정의 이슈 (Custom Issue)
+about: 그 밖의 이슈나 특별한 요청을 작성합니다.
+title: "[CUSTOM] 간단한 제목을 입력하세요."
+labels: ''
+assignees: ''
+---
+
 ## 📝 제목
 
 간단하고 명확한 제목을 입력해주세요.
